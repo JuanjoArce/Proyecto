@@ -1,0 +1,9 @@
+.titulo3{
+    font: 'Poppins';
+    background-color: #252525;
+    width:150px;
+    height:30px;
+    color:white;
+    text-align:center;
+    box-shadow: 6px 6px 1px #323232;
+}
